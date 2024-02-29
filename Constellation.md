@@ -73,6 +73,29 @@
 - **Emotional Depth:** The separation from his fellow enthusiasts and the realization of the significance of his log book in this new reality add emotional depth to Jake's character. His reflections on his past interactions and the value of his hobby enrich the narrative.
 - **Contributions to the Mission:** Jake's actions, informed by his spotting expertise and historical knowledge, could directly influence the plot's outcome. Whether he's identifying potential allies based on historical flags or advising on navigational strategies using his understanding of historical sea routes, Jake proves to be an asset beyond his initial role as an enthusiast.
 
+### Corporal Joanna "Jo" Washington
+
+- **Background:** Coming from a family with a strong military tradition, Jo Washington joined the USMC with a determination to excel. Her discipline, dedication, and sharpshooting skills quickly distinguished her within the Corps.
+- **Expertise:** As a rifle specialist, she is proficient with the Mk 12 Special Purpose Rifle (SPR), a weapon designed for precision shooting. Her role involves reconnaissance, providing cover for operations, and engaging targets at long distances.
+- **Achievements:** Jo is the 2025 and 2026 champion of the Malachowski Challenge, a prestigious military marksmanship competition named after a famed sharpshooter. This accolade not only underscores her skill but also her competitive spirit and resilience under pressure.
+
+#### Role in the Narrative
+
+- **Tactical Asset:** Jo's marksmanship makes her a vital asset for the crew, especially in situations requiring precision and discretion. Her skills could be pivotal in scenarios where the crew must defend themselves without revealing their technological capabilities.
+- **Mentorship:** Recognized for her expertise, Jo could play a mentorship role, training other crew members in marksmanship and survival skills, enhancing the crew's overall readiness for the challenges of the 15th century.
+- **Character Dynamics:** Her interactions with the crew, particularly with leadership figures like Captain Middleton and Commander Frost, can explore themes of respect, trust, and the integration of specialized skills within team dynamics.
+
+#### Character Development and Plot Integration
+
+- **Adaptation to the Past:** Thrust into 1485, Jo must adapt her modern military training to a world without the infrastructure and technology she's accustomed to. This adaptation challenges and refines her skills in new ways.
+- **Ethical Dilemma:** Jo could face moral and ethical dilemmas, particularly in applying lethal force in a historical context where her actions have the potential to alter the future. Her development could explore the weight of these decisions and their impact on her psyche.
+- **Cultural Exchange:** As a woman in a military role, Jo's presence could challenge the gender norms of the 15th century, providing opportunities for cultural exchange and dialogue. Her interactions with historical figures and populations could highlight both the differences and universal aspects of military service across ages.
+
+#### Potential Storylines
+
+- **A Crucial Shot:** A plotline could involve Jo needing to make a critical shot that will significantly impact the crew's fate. The build-up to this moment can explore her preparation, strategy, and the emotional toll of such responsibility.
+- **Training the Crew:** Another storyline could see Jo developing a training program for the crew, enhancing their self-defense and marksmanship skills. This subplot can underscore the importance of preparation and adaptability in survival.
+- **Historical Impact:** Jo could unwittingly influence historical events through her actions, leading to a subplot that explores the consequences of her presence in the past and her efforts to mitigate any negative outcomes.
 
 ## **Plot Points:**
   - **Immediate Aftermath:** Confusion and chaos ensue post-transition. The crew and civilians must deal with their new reality, survival being the immediate concern.
