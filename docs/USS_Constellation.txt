@@ -1,0 +1,61 @@
+PRINCIPAL FEATURES
+Length 151.2m (496.1 ft)
+Beam 19.7 m (64.6 ft)
+Draft 5.5 m (18.0 ft)
+Accommodations 200
+
+MACHINERY FEATURES
+LS Displacement: WT (LT) 6,016 (6,112.6 tonnes); KG (FT-ABL) 29.72
+FL Displacement: WT (LT) 7,291 (7,408 tonnes); KG (FT-ABL) 26.74
+CODLAG Propulsion Plant: 1 Gas Turbine 2 Electric propulsion motors 4 Ship service diesel generators 1 Auxiliary propulsion unit
+Hangar: 1 MH-60R, plus UAVs
+Armament: 1 MK 110 57 mm gun 32 MK41 VLSs 16 NSM weapon systems 1 MK 49 RAM 4 MK 53 MOD 9 DLSs 2 AN-SLQ-32(V)6 CM (SEWIP) BLK II suites
+
+Command Department
+Commanding Officer (CO): Overall command of the ship.
+Executive Officer (XO): Second-in-command, responsible for day-to-day operations.
+Command Master Chief (CMC): Senior enlisted advisor to the CO and XO.
+
+Deck Department
+Navigators: Specialists in navigation and piloting the frigate through various waters.
+Boatswain's Mates: Responsible for the maintenance of the ship's external structure and deck equipment.
+Quartermasters: Assist with navigation and helm control.
+
+Operations Department
+Operations Officer: Plans and executes operational missions.
+Intelligence Specialists: Gather and analyze operational intelligence.
+Cryptologic Technicians: Specialize in signal intelligence and cybersecurity.
+Unmanned Aerial Vehicle (UAV) Operators: Manage the deployment and operation of UAVs for reconnaissance and support.
+
+Engineering Department
+Chief Engineer: Oversees the operation and maintenance of the ship's engineering systems.
+Electrician's Mates: Maintain the ship's electrical systems.
+Gas Turbine System Technicians: Operate and maintain the gas turbine engines.
+Machinist's Mates: Operate and maintain mechanical equipment, including the propulsion systems.
+Hull Maintenance Technicians: Responsible for the maintenance of the ship's hull, piping systems, and damage control.
+
+Weapons Department
+Fire Controlman: Operate and maintain the ship's weapon systems.
+Gunner's Mates: Responsible for the operation and maintenance of the ship's armament.
+Sonar Technicians: Operate sonar systems for submarine detection and engage in anti-submarine warfare.
+
+Supply Department
+Supply Officer: Manages logistics, food service, and financial matters.
+Culinary Specialists: Prepare meals and manage the galley.
+Logistics Specialists: Handle inventory, procurement, and storage of supplies.
+
+Medical Department
+Medical Officer: Provides medical care and oversees health services.
+Hospital Corpsmen: Perform medical and dental care tasks under the supervision of the medical officer.
+
+Aviation Department
+Aviation Maintenance Officer: Manages the maintenance of embarked aircraft.
+Naval Aircrewmen: Operate onboard MH-60R and UAV systems.
+Aerographer's Mates: Provide meteorological and oceanographic support.
+
+Additional Crew
+Information Systems Technicians: Manage communications and information technology systems.
+Environmental Health Officers: Oversee environmental health and safety protocols.
+
+The total crew composition would be around 200 personnel, including officers, enlisted personnel, and potentially civilian technicians or specialists for certain advanced systems.
+The exact number and specialization of crew members can vary based on the mission profile, operational requirements, and technological advancements of the ship.
