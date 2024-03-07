@@ -1,3 +1,13 @@
+Contains:
+
+Captain Ulysses Middleton
+Commander Joshua Frost
+Joanna "Jo" Washington
+Jesus Hernandez
+Brock Johansson
+Meredith Barnes
+Timothy Smith
+
 **Captain Ulysses Middleton**
 
 **Position:** Commanding Officer, USS Constellation "Blue Crew"
@@ -124,6 +134,68 @@ Here's a look at Commander Joshua Frost's civilian side, focusing on his interes
 
 ---
 
+**Joanna "Jo" Washington**
+
+Position: Corporal in the Marines
+
+A skilled marksman with two consecutive competition wins under her belt, leads a squad of Light Armored Reconnaissance (LAR) Marines.  LAR units specialize in rapid deployment and reconnaissance, making them an agile and adaptable force. Her squad is participating in a joint training exercise aboard the USS Constellation, a cutting-edge frigate.  This exercise will take them to North Manitou Island, where they'll be deployed for maneuvers. 
+
+The addition of this LAR unit is unusual, as Marines are not standard crew on frigates. This highlights the experimental nature of the Constellation's maiden voyage and the potential for unforeseen complications. As the Constellation navigates the Great Lakes, both Washington's squad and the ship's crew are about to be tested in ways they could never have imagined when a sudden, inexplicable event hurls them into the year 1485.
+ 
+With her rifle skills, cool demeanor, and unexpected situation, has the potential to be a compelling character in the alternate history scenario. Here's how to build upon her profile and explore her unique challenges and opportunities:
+
+Joanna's Initial Experience
+
+* Ring of Fire Shock: Imagine the disorientation of being suddenly transported with her squad into a forest in 1485.  The chaos, fear, and immediate need for situational awareness are amplified by their surroundings.
+* Marksman Out of Place: Joanna's expertise lies in precision shooting.  In a time of swords and bows, her superior weaponry is initially more of a curiosity than a tactical advantage.
+* Chain of Command: Is her squad intact? Who is she taking orders from? The event may disrupt usual authority, forcing her to step up and think independently.
+
+Adapting in the New World
+
+* Gender Expectations:  Even with modern sensibilities, she'll face immediate challenges due to her gender. Initial disguise as a male might be necessary for safety and acceptance.
+* Unfamiliar Territory: Joanna will need to quickly learn 15th-century social norms, language, and potential dangers. Finding allies or locals to translate and explain will be crucial for survival.
+* Proving Herself: Beyond her rifle, what other skills does she possess? Navigation, first aid, or even basic leadership abilities could become invaluable in this unfamiliar world.
+
+Narrative Potential
+
+* Fish-out-of-Water Struggles: Early interactions with 1485 locals could highlight her misunderstandings and the limitations of her training (modern war vs. medieval skirmishes).
+* Inner Growth: Joanna will likely question her own identity and value as a Marine in this new context. Can she adapt her skills and find new ways to contribute? 
+* Unexpected Teacher: Joanna could end up teaching those around her practical concepts, influencing their approach to problems, even if it's as simple as basic sanitation.
+
+Light Armored Reconnaissance vehicle carried by the Constellation:
+
+**Advanced Reconnaissance Vehicle (ARV)**
+
+* Role: Highly mobile, armored vehicle for rapid deployment and reconnaissance missions.
+
+**Key Features:**
+
+* Armaments: 
+    * Medium-caliber automatic cannon (offers greater range and firepower than any 15th-century equivalent)
+    * Anti-armor capability (exact nature can be left vague to maintain an  air of mystery surrounding the ARV's capabilities)
+
+* Sensors & Communication: 
+    * Advanced sensor suite (emphasize its ability to detect threats beyond visual range)
+    * Networked communications (implies potential to coordinate with other units, creating the illusion of having more military force than just the single ARV)
+
+* Mobility: 
+    * Robust cross-country and on-road performance 
+    * Water mobility (could be crucial depending on the terrain where the ARV ends up)
+
+* Other Systems:  
+    * Deployable autonomous drones (leave specifics vague – are they aerial or ground-based?)
+    * Electronic warfare capabilities (could be explained as 'disrupting enemy communications' to those in 1485)
+
+The inclusion of the Light Armored Reconnaissance Vehicle (ARV) aboard the Constellation is unorthodox. However, it serves a crucial purpose for this maiden voyage.
+
+Joint Training Exercise: The ARV is part of a Marine Corps training exercise scheduled during our deployment. This innovative vehicle is designed for rapid deployment and reconnaissance on land. 
+
+Unforeseen Advantages: While not standard frigate equipment, the ARV's advanced sensors and communication systems could prove valuable in unanticipated situations. 
+
+Limited Footprint:  The ARV is housed within the hangar and wouldn't impede normal ship operations.  Its presence is purely for training purposes during this shakedown cruise.
+
+---
+
 **Jesus Hernandez**
 
 **Background:**  
@@ -187,3 +259,27 @@ Here's a look at Commander Joshua Frost's civilian side, focusing on his interes
 - **Political Strategy:** Utilizes her experience and position within the teacher's union to challenge the status quo, positioning herself as an advocate for educators and workers, contrasting her approach with Johansson's focus on local economic issues.
  
 ---
+
+**Timothy Smith**
+
+- Professional Background
+- **Current Position:** Camera operator for Global Business News, a network that represents a new chapter in his career away from the frontlines of global conflicts.
+- **Past Experience:** Has a rich background in filming in war zones and conflict areas like Ukraine and South Sudan, showcasing his expertise in capturing critical moments under extreme conditions.
+
+- Personal Life
+- **Recent Changes:** Timothy's shift to business news might be driven by personal developments such as marriage or a profound desire for a safer, more stable environment after years of unpredictable and dangerous assignments.
+- **Skills and Resilience:** His experiences in conflict zones have not only honed his technical skills but also imbued him with a strong sense of resilience and the ability to remain calm under pressure.
+
+- Character Dynamics Post-Disruption
+- **Reaction to Time Displacement:** Encountering the Ring of Fire's disruption, Timothy is likely to experience initial shock and resistance, viewing this unexpected turn as a regression to the chaos he aimed to leave behind.
+- **Internal Struggle:** He faces an internal conflict between his instinctual reaction to adapt and survive in crisis situations, rooted in his past experiences, and his recent aspirations for a life devoid of such extremes.
+
+- Role in the New Setting
+- **Utilization of Skills:** Despite his reluctance, Timothy's expertise in camera operation and broadcasting becomes invaluable, especially when his equipment is used to enhance the communication capabilities of the displaced group, particularly the Navy personnel.
+- **Adaptation and Contribution:** While grappling with his own desires for normalcy, Timothy's unique skill set positions him as a key player in establishing a semblance of structure and information flow in a setting that lacks modern communication tools.
+
+- Narrative Potential
+- **Character Development:** Timothy's journey offers a narrative arc that explores the balance between past experiences and present desires, showcasing how one's history is never truly left behind but can be a source of strength in unforeseen circumstances.
+- **Reluctant Hero:** While Timothy may resist being thrust back into a role that mirrors the intensity of his previous work, his evolution could see him embracing his ability to contribute significantly to the group's survival and adaptation to their new environment.
+
+Timothy Smith's character adds depth to the ensemble, providing a perspective that juxtaposes a desire for peace with the inevitability of facing past fears, all while contributing critical skills to the group's collective effort to navigate their unexpected reality.
