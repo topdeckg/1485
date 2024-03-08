@@ -7,8 +7,8 @@ Contains:
 [Brock Johansson](#brock-johansson);
 [Meredith Barnes](#meredith-barnes);
 [Timothy Smith](#timothy-smith);
-[Gina Swanson](#mayor-gina-swanson);
-[Paul Swanson](#mayor-gina-swanson)
+[Gina Swanson](#gina-swanson);
+[Paul Swanson](#paul-swanson)
 
 ## Captain Ulysses Middleton
 
@@ -288,17 +288,28 @@ Timothy Smith's character adds depth to the ensemble, providing a perspective th
 
 ---
 
-## Mayor Gina Swanson
+##  Gina Swanson
 
 **Background:**
 - Age: 61
-- **Position:** Mayor of the Wisconsin city, actively involved in local events and governance.
+- **Position:** Mayor of Marinette, Wisconsin, actively involved in local events and governance.
 - **Personal Life:** Married to Paul (age 66), a retired high school history teacher, who could provide historical insights into their situation.
 - **Professional Life:** On hiatus from her law firm to serve her term, indicating her dedication to public service.
+- Reads the local Marinette paper
 
 **Character Dynamics in Act 1:**
 - **Chapter Inclusion:** Gina Swanson, witnessing the Ring of Fire event during the launch ceremony, provides a civic leader's perspective on the crisis management and community organization in the aftermath.
 - **Relationships:** Her interactions with her husband, Paul, can offer a blend of personal and historical context to the unfolding events, potentially drawing parallels with his knowledge of history.
 - **Leadership Role:** As a key local figure, she navigates the challenges of leading a community through an unprecedented situation, focusing on her responsibility to maintain order, morale, and a sense of community among the displaced populace.
+
+## Paul Swanson
+
+**Background:**
+- Age: 66
+- Retired highschool teacher. Mostly American history (9th and 10th grade). Also World History.
+- Avid tennis player. Coached the high school team before focusing on history at age 52.
+- Fan of the Packers and the Bucks, usually wears one of his many team sweaters. Not a huge baseball fan will will attend Brewers games with his cousin Jim occasionally.
+- Does the sudoku in the Milwaukee paper every day
+- Loves slapstick and farce comedy movies.
 
 Incorporating Mayor Gina Swanson adds a layer of local governance and community leadership to the narrative, exploring the socio-political dimensions of the displacement event.
