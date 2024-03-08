@@ -1,21 +1,23 @@
 Contains:
 
-Captain Ulysses Middleton
-Commander Joshua Frost
-Joanna "Jo" Washington
-Jesus Hernandez
-Brock Johansson
-Meredith Barnes
-Timothy Smith
+[Captain Ulysses Middleton](#captain-ulysses-middleton);
+[Commander Joshua Frost](#commander-joshua-frost);
+[Joanna "Jo" Washington](#joanna-jo-washington);
+[Jesus Hernandez](#jesus-hernandez);
+[Brock Johansson](#brock-johansson);
+[Meredith Barnes](#meredith-barnes);
+[Timothy Smith](#timothy-smith);
+[Gina Swanson](#mayor-gina-swanson);
+[Paul Swanson](#mayor-gina-swanson)
 
-**Captain Ulysses Middleton**
+## Captain Ulysses Middleton
 
 **Position:** Commanding Officer, USS Constellation "Blue Crew"
 
 **Family:**  
 - **Wife:** Tracie Middleton  
 - **Children:**  
-  - **James:** 14 years old, inquisitive and tech-savvy, showing early interest in naval history.  
+  - **James:** 14 years old, a typical moody and disillusioned teen.
   - **Kellie:** 10 years old, creative and spirited, enjoys arts and is a member of a local drama club.  
   - **Joanie:** 14 months old, the youngest, lively and the center of the family's affection.  
 **Background:**  
@@ -74,7 +76,7 @@ This sheet provides a holistic view of Ulysses, blending his professional and pe
 
 ---
 
-**Commander Joshua Frost**
+## Commander Joshua Frost
 
 **Position:** Executive Officer, USS Constellation "Blue Crew"
 
@@ -134,7 +136,7 @@ Here's a look at Commander Joshua Frost's civilian side, focusing on his interes
 
 ---
 
-**Joanna "Jo" Washington**
+## Joanna "Jo" Washington
 
 Position: Corporal in the Marines
 
@@ -196,7 +198,7 @@ Limited Footprint:  The ARV is housed within the hangar and wouldn't impede norm
 
 ---
 
-**Jesus Hernandez**
+## Jesus Hernandez
 
 **Background:**  
 - Grew up in Chatsworth, CA, in a large, low-income family with strong Mexican roots.  
@@ -230,7 +232,7 @@ Limited Footprint:  The ARV is housed within the hangar and wouldn't impede norm
 
 ---
 
-**Brock Johansson**
+## Brock Johansson
 
 - **Role:** Serving representative for Wisconsin's 8th district. Republican. Heavily involved in local matters, particularly the shipyard event.
 - **Personality:** Dedicated, perhaps to a fault, to local issues over broader national politics. Displays a sense of commitment and a touch of defensiveness regarding his political engagement.
@@ -245,7 +247,7 @@ Limited Footprint:  The ARV is housed within the hangar and wouldn't impede norm
 
 ---
 
-**Meredith Barnes**
+## Meredith Barnes
 
 - **Role:** Johansson's challenger in the general election. Democrat. Positioning herself as a teacher and educator, but with a background in law and union leadership.
 - **Personality:** Ambitious, possibly seen as manipulative or disingenuous through Johansson's perspective.
@@ -260,7 +262,7 @@ Limited Footprint:  The ARV is housed within the hangar and wouldn't impede norm
  
 ---
 
-**Timothy Smith**
+## Timothy Smith
 
 - Professional Background
 - **Current Position:** Camera operator for Global Business News, a network that represents a new chapter in his career away from the frontlines of global conflicts.
@@ -283,3 +285,21 @@ Limited Footprint:  The ARV is housed within the hangar and wouldn't impede norm
 - **Reluctant Hero:** While Timothy may resist being thrust back into a role that mirrors the intensity of his previous work, his evolution could see him embracing his ability to contribute significantly to the group's survival and adaptation to their new environment.
 
 Timothy Smith's character adds depth to the ensemble, providing a perspective that juxtaposes a desire for peace with the inevitability of facing past fears, all while contributing critical skills to the group's collective effort to navigate their unexpected reality.
+
+---
+
+## Mayor Gina Swanson
+
+**Background:**
+- Age: 61
+- **Position:** Mayor of the Wisconsin city, actively involved in local events and governance.
+- **Personal Life:** Married to Paul (age 66), a retired high school history teacher, who could provide historical insights into their situation.
+- **Professional Life:** On hiatus from her law firm to serve her term, indicating her dedication to public service.
+
+**Character Dynamics in Act 1:**
+- **Chapter Inclusion:** Gina Swanson, witnessing the Ring of Fire event during the launch ceremony, provides a civic leader's perspective on the crisis management and community organization in the aftermath.
+- **Relationships:** Her interactions with her husband, Paul, can offer a blend of personal and historical context to the unfolding events, potentially drawing parallels with his knowledge of history.
+- **Leadership Role:** As a key local figure, she navigates the challenges of leading a community through an unprecedented situation, focusing on her responsibility to maintain order, morale, and a sense of community among the displaced populace.
+
+Incorporating Mayor Gina Swanson adds a layer of local governance and community leadership to the narrative, exploring the socio-political dimensions of the displacement event.
+
