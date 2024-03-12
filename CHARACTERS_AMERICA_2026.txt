@@ -1,3 +1,16 @@
+**Background Information: March 2026**
+
+**Setting:**
+* **The Wabekon River:** Divides Belle Rive, Wisconsin to the south from Wabekon, Michigan on the Upper Peninsula.  The river flows into Green Bay.
+* **Great Lakes Shipbuilders:** A sprawling shipyard in Belle Rive, with a legacy dating back to World War II. 
+* **The USS Alliance:** A cutting-edge Alliance Class frigate, the first of its kind since 1989, nears completion at the shipyard.
+
+**Onboard the Alliance:**
+
+* **Pre-Commissioning Crew:**  A 200-strong crew buzzes with activity as they complete final preparations before the ship's launch.
+* **Command Staff:** 15 officers lead the sailors, undergoing intensive training within the 300,000 square foot construction space. 
+* **Atmosphere:**  A sense of anticipation and controlled chaos fills the air just days before the historic launch. 
+
 Contains:
 
 [Captain Ulysses Middleton](#captain-ulysses-middleton);
@@ -12,7 +25,7 @@ Contains:
 
 ## Captain Ulysses Middleton
 
-**Position:** Commanding Officer, USS Constellation "Blue Crew"
+**Position:** Commanding Officer, USS Alliance "Blue Crew"
 
 **Family:**  
 - **Wife:** Tracie Middleton  
@@ -45,7 +58,7 @@ This sheet provides a holistic view of Ulysses, blending his professional and pe
 - **Family Legacy:** Navigates the complexities of his family's naval history and its impact on his career.  
 
 **Current Scenario:**  
-- Overseeing the USS Constellation's transition from construction to active duty, demonstrating leadership as he manages the crew and interacts with politicians and media during the launch ceremony in Wisconsin.
+- Overseeing the USS Alliance's transition from construction to active duty, demonstrating leadership as he manages the crew and interacts with politicians and media during the launch ceremony in Belle Rive Wisconsin.
 
 **Personality Traits:**  
 - **Decisive:** Demonstrated under pressure during the terrorist attack.  
@@ -58,7 +71,7 @@ This sheet provides a holistic view of Ulysses, blending his professional and pe
 
 **Future Challenges:**  
 - Navigating his role as a leader while balancing personal history and professional expectations.  
-- Ensuring the successful integration and operation of the USS Constellation in the Navy's fleet, amidst its unique commissioning circumstances.
+- Ensuring the successful integration and operation of the USS Alliance in the Navy's fleet, amidst its unique commissioning circumstances.
 
 **Off-Duty Profile:**  
 
@@ -78,7 +91,7 @@ This sheet provides a holistic view of Ulysses, blending his professional and pe
 
 ## Commander Joshua Frost
 
-**Position:** Executive Officer, USS Constellation "Blue Crew"
+**Position:** Executive Officer, USS Alliance "Blue Crew"
 
 * **Rank:**  Commander (US Navy)
 * **Age:**  Mid-to-late 40s (experienced, established in his career)
@@ -98,14 +111,14 @@ This sheet provides a holistic view of Ulysses, blending his professional and pe
 
 **Narrative Considerations**
 
-* **Conflict Potential:** Will he try to undermine Captain Middleton, subtly sabotage the mission, or eventually reconcile with his role on the Constellation? This could create internal tension within the crew.
-* **Source of Expertise:**  Despite his frustrations, Commander Frost possesses invaluable knowledge about the Constellation's systems and protocols.  Can he be a reluctant asset to Captain Middleton during a crisis?
+* **Conflict Potential:** Will he try to undermine Captain Middleton, subtly sabotage the mission, or eventually reconcile with his role on the Alliance? This could create internal tension within the crew.
+* **Source of Expertise:**  Despite his frustrations, Commander Frost possesses invaluable knowledge about the Alliance's systems and protocols.  Can he be a reluctant asset to Captain Middleton during a crisis?
 * **Thematic Connection:**  Frost represents the "old guard" – experienced but potentially inflexible.  His arc could explore the challenges of adapting to new leadership and the importance of letting go of past grievances. 
 
 **Additional Thoughts**
 
 * **The Transfer:**  Is the transfer request recent, or has it been hanging over his head for a while?  This can impact his motivation and willingness to engage with the crew. 
-* **A Change of Heart?:**  Will something transpire during the journey that makes him reconsider leaving the Constellation? Perhaps he rediscovers a sense of purpose, or finds a way to work effectively with Captain Middleton. 
+* **A Change of Heart?:**  Will something transpire during the journey that makes him reconsider leaving the Alliance? Perhaps he rediscovers a sense of purpose, or finds a way to work effectively with Captain Middleton. 
 
 Here's a look at Commander Joshua Frost's civilian side, focusing on his interests and personality outside of his naval life:
 
@@ -140,9 +153,9 @@ Here's a look at Commander Joshua Frost's civilian side, focusing on his interes
 
 Position: Corporal in the Marines
 
-A skilled marksman with two consecutive competition wins under her belt, leads a squad of Light Armored Reconnaissance (LAR) Marines.  LAR units specialize in rapid deployment and reconnaissance, making them an agile and adaptable force. Her squad is participating in a joint training exercise aboard the USS Constellation, a cutting-edge frigate.  This exercise will take them to North Manitou Island, where they'll be deployed for maneuvers. 
+A skilled marksman with two consecutive competition wins under her belt, leads a squad of Light Armored Reconnaissance (LAR) Marines.  LAR units specialize in rapid deployment and reconnaissance, making them an agile and adaptable force. Her squad is participating in a joint training exercise aboard the USS Alliance, a cutting-edge frigate.  This exercise will take them to North Manitou Island, where they'll be deployed for maneuvers. 
 
-The addition of this LAR unit is unusual, as Marines are not standard crew on frigates. This highlights the experimental nature of the Constellation's maiden voyage and the potential for unforeseen complications. As the Constellation navigates the Great Lakes, both Washington's squad and the ship's crew are about to be tested in ways they could never have imagined when a sudden, inexplicable event hurls them into the year 1485.
+The addition of this LAR unit is unusual, as Marines are not standard crew on frigates. This highlights the experimental nature of the Alliance's maiden voyage and the potential for unforeseen complications. As the Alliance navigates the Great Lakes, both Washington's squad and the ship's crew are about to be tested in ways they could never have imagined when a sudden, inexplicable event hurls them into the year 1485.
  
 With her rifle skills, cool demeanor, and unexpected situation, has the potential to be a compelling character in the alternate history scenario. Here's how to build upon her profile and explore her unique challenges and opportunities:
 
@@ -164,7 +177,7 @@ Narrative Potential
 * Inner Growth: Joanna will likely question her own identity and value as a Marine in this new context. Can she adapt her skills and find new ways to contribute? 
 * Unexpected Teacher: Joanna could end up teaching those around her practical concepts, influencing their approach to problems, even if it's as simple as basic sanitation.
 
-Light Armored Reconnaissance vehicle carried by the Constellation:
+Light Armored Reconnaissance vehicle carried by the Alliance:
 
 **Advanced Reconnaissance Vehicle (ARV)**
 
@@ -188,7 +201,7 @@ Light Armored Reconnaissance vehicle carried by the Constellation:
     * Deployable autonomous drones (leave specifics vague – are they aerial or ground-based?)
     * Electronic warfare capabilities (could be explained as 'disrupting enemy communications' to those in 1485)
 
-The inclusion of the Light Armored Reconnaissance Vehicle (ARV) aboard the Constellation is unorthodox. However, it serves a crucial purpose for this maiden voyage.
+The inclusion of the Light Armored Reconnaissance Vehicle (ARV) aboard the Alliance is unorthodox. However, it serves a crucial purpose for this maiden voyage.
 
 Joint Training Exercise: The ARV is part of a Marine Corps training exercise scheduled during our deployment. This innovative vehicle is designed for rapid deployment and reconnaissance on land. 
 
