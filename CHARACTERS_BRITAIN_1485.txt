@@ -1,4 +1,4 @@
-**Thomas Stanley**
+## **Thomas Stanley**
 
 ### Detailed Document on Thomas Stanley (Pre-July 1485)
 
@@ -68,9 +68,7 @@
 
 ---
 
-**Katherine Woodville**
-
-### Katherine Woodville, Duchess of Buckingham: Analysis up to July 1485
+### Katherine Woodville, Duchess of Buckingham
 
 #### Early Life and Woodville Connections
 - Katherine Woodville's early years were marked by the significant rise of the Woodville family following her sister Elizabeth's marriage to Edward IV. This alliance catapulted the Woodvilles into the upper echelons of English nobility, affecting Katherine's prospects and positioning within the court.
@@ -136,7 +134,9 @@
 
 ---
 
-**Rhys ap Thomas**
+## Wales
+
+### **Rhys ap Thomas**
 
 * Powerful Welsh nobleman:  Held significant influence in South Wales under Richard III.
 * Decisive Supporter of Henry Tudor:  His switch of allegiance played a key role at the Battle of Bosworth Field.
@@ -161,87 +161,98 @@
 
 ## Wingfield Manor
 
-**Henry Vernon**
+### **Henry Vernon**
 
-* Position: Powerful Derbyshire landowner and esquire of the body to Richard III.
-* Reputation: Records on him are a bit thin, but his closeness to Richard III suggests he was loyal, potentially fighting at Bosworth for the Yorkist side.
-* Likely Motivation: Maintaining his position and lands would be paramount. He'd need to tread carefully, as the new Tudor regime would seek out Richard III loyalists.
-* Ward to Young Talbot: This is crucial! It places him in a complex position – responsible for the son of a powerful family, yet potentially vulnerable due to his own past allegiances.  
+**Background and Position:**
+- Henry Vernon is a significant landowner in Derbyshire and an esquire of the body to King Richard III, reflecting his prominent status and close ties to the monarch.
 
-**George Talbot, 4th Earl of Shrewsbury**
+**Political Stance and Family Ties:**
+- While married to Anne Talbot from the Lancastrian-aligned family, Vernon's political leanings are more Yorkist, indicative of the complex allegiances during this period. His relationship with George Talbot, as an uncle, adds layers to his political and familial connections.
 
-* Young & Vulnerable:  At about 15 years old in 1485, he's legally a minor even as a titled Earl. This makes him susceptible to manipulation by those trying to gain control of his lands and influence.
-* Family Ties: 
-    * His late father's execution likely made him a figure of suspicion for Henry Tudor.
-    * His marriage to Anne Hastings, another potential target of the new regime, further complicates his position.
-* Potential Pawn: He represents significant power, making him a potential target for anyone looking to strengthen their own position with  Henry Tudor.  Could others seek to displace Henry Vernon as his guardian?  
+**Military and Political Activities:**
+- Vernon has not committed to any military action as of July 1485. Despite being called to battle previously, his avoidance of direct conflict shows a strategic or possibly cautious approach to his military obligations.
 
-**Incorporating Them in the Story**
+**Current Situation:**
+- As of July 1485, with Richard III in London and Henry Tudor preparing his forces in France, Vernon's position requires careful balancing. His actions and loyalties during this critical period will be crucial, given the impending conflict and the shifting political landscape.
 
-* Vernon's Dilemma: This is ripe for exploration! His ward's very existence jeopardizes his own standing. Does he:
-    * Protect George fiercely out of loyalty or a sense of duty?
-    * See George as a path to his own redemption in the eyes of Henry Tudor?
-    * Secretly work to undermine George so he can step into a more powerful role himself?
-* Talbot's Eyes:  Use George as a witness to intrigue at Macclesfield or the surrounding region. He's young, perhaps naively trustful, offering a lens into the maneuvering of adults around him.
-* Unexpected Connection: Could a character at Macclesfield be distantly related to the Talbots or Vernons?  This creates a thread linking them to the wider power struggles.
-* The Hastings Connection:  George's wife, Anne, offers a way to build tension. Will the downfall of her family cause additional problems for George? 
+**Land Ownership and Influence:**
+- Owning significant lands, Vernon's decisions will impact not just his own fate but also that of his tenants and the local community, highlighting the role of landowners in the political machinations of the time.
 
-The relationships between the Talbot, Hastings, and Stafford families are a perfect tangle of political ambition, past betrayals, and complicated family ties – all ripe for inclusion in the historical fiction! Here's how to weave this web into the plot:
 
-1.  Echoes of the Past
+### **George Talbot, 4th Earl of Shrewsbury**
 
-* The Stafford Execution:  This casts a long shadow. Henry Stafford's death on the orders of Richard III still has repercussions in 1485.
-    * Lingering mistrust:  Henry Tudor, even if victorious, may never fully trust those who once served the Yorkist regime, making the Talbots vulnerable.
-    * Seekers of Revenge:   Did the Staffords have allies? Could someone seek to undermine the Talbots subtly, blaming them by association for Henry Stafford's fate?
-* Past Support: During the Wars of the Roses, these families likely shifted allegiances for survival. Old betrayals, even if mended on the surface, would still create tension.
+- **Age and Legal Status:** At 17 in 1485, George Talbot is nearing the end of his wardship, transitioning from a legally vulnerable minor to a young adult with full control over his title and estates.
+- **Family Ties and Political Implications:** 
+  - The execution of his father places George under scrutiny, potentially affecting his standing with Henry Tudor.
+  - His marriage to Anne Hastings adds layers to his political and personal situation, intertwining his fate with another influential family.
+- **Strategic Value:** On the brink of independence, George's position holds considerable strategic value. His impending release from wardship might attract those seeking to leverage his title and lands, impacting the power dynamics surrounding his transition to adulthood.
 
-2. Intertwined Ties
+### **Anne Hastings**
 
-* Young George Talbot: He is both an Earl and the nephew of the executed Henry Stafford. 
-    * Guilt by Association: Some might hold him responsible for his uncle's actions, unfairly targeting him to gain leverage.  
-    * Sympathy: Others might see him as an innocent victim of a ruthless regime, offering a chance to gain favor with the Talbots *and* distance themselves from the Yorkists.
-* Anne Hastings:  George's wife, the daughter of the executed William Hastings. 
-    * A Vulnerable Heiress: Her family's downfall might prompt suitors seeking her hand and, by extension, control over her potential inheritance.
-    * Connection to the Staffords: Was her marriage to George Talbot arranged to mend old wounds between the families? If so, is this a genuine alliance or a fragile arrangement easily broken for personal gain? 
+**Background:**
+- **Age & Status:** At 14, Anne is navigating her early years as the Countess of Shrewsbury, married to George Talbot, 4th Earl of Shrewsbury, at a young age.
+- **Family:** Daughter of William Hastings and Katherine Neville, making her deeply intertwined with prominent Yorkist and Lancastrian figures. Her family's history is marked by notable allegiance shifts and significant roles in the Wars of the Roses.
 
-3. Using This in the Story
+**Marriage:**
+- **Spouse:** Married to George Talbot, her second cousin, since she was about 10, intertwining her fate with the Talbot family.
+- **Position:** Her marriage brings her the titles of Countess of Shrewsbury and Baroness Furnivall.
 
-* Manipulation of the Young:  Both George and Anne are potential pawns in the political games of adults. Show schemers whispering doubts and offering seemingly tempting alternatives.
-* Macclesfield Connection: Did Catherine Stafford have past dealings with the Hastings family? Could this spark an unexpected alliance, or resentment based on past perceived slights?
-* Unexpected Benefactor: Introduce a minor character, a distant relative or someone with past ties to one of these families. They take an interest in protecting George or Anne, driven by old loyalty, hidden motives, or simple sympathy.
-* The Threat of Rumors:  Even unsubstantiated gossip can be dangerous. Have characters hear whispers about the Talbots being secretly disloyal, or the true motive behind Anne's marriage. This forces reactions and reveals loyalties.
+**Historical Context:**
+- **Dynastic Turmoil:** Grew up during the Wars of the Roses, experiencing firsthand the conflict's impact on her family.
+- **Father's Execution:** Her father, a staunch Yorkist, was executed by Richard III, adding a layer of personal loss and political complexity to her life.
 
-**Buxton Limestone**
+**Current Situation:**
+- **Guardianship:** Post her father's execution, her mother, Katherine, became the guardian of Anne's husband, George, reflecting the intricate legal and familial dynamics of the time.
 
-1. The Americans' Dilemma
+Anne's character offers a lens into the personal impacts of the broader political struggles of the era, highlighting themes of loyalty, loss, and resilience.
 
-* Knowledge of Future: They know the potential value of this limestone deposit, but  accessing it requires gaining Talbot's  favor – not an easy feat given they're foreigners with no prior connection.
-* Historical Limitations: Land ownership in 1485 is convoluted, with complicated inheritance laws. They can't just buy the land or offer Talbot modern-day riches he wouldn't comprehend.
-* Need for a Proxy: They might need to find an intermediary, someone trusted by Talbot or Henry Vernon, whom they can manipulate and use as a go-between. 
+## Katherine Neville, Baroness Hastings
 
-2. Talbot as the Key
+**Background:**
+- **Birth Year:** 1442, making her 43 years old in 1485.
+- **Family:** Daughter of Richard Neville, Earl of Salisbury, and sister to Warwick the Kingmaker. Aunt to Anne Neville, Queen Consort to Richard III.
 
-* George's Vulnerability: Use his young age and potential for manipulation. The Americans would likely start with subtle approaches, offering gifts or hinting at vague  "advantages" to gain his attention.
-* Vernon as Obstacle or Opportunity: Henry Vernon holds the reins as Talbot's guardian. Can they sway Vernon with promises of greater power or wealth under the new regime? Could he be suspicious of their motives, becoming a potential antagonist?
-* Beyond the Land:  It's not only about limestone. Is there something else the Americans can offer Talbot? Access to future knowledge that could ensure his family's prosperity, or perhaps a connection to Henry Tudor that would bolster their position in this uncertain time?
+**Marriages and Issue:**
+- First married William Bonville, having Cecily Bonville. After Bonville's execution, she married William Hastings, 1st Baron Hastings, with whom she had several children, including Edward Hastings and Anne Hastings, who married George Talbot.
 
-3. Narrative Potential
+**Position and Influence:**
+- As Baroness Hastings and a member of the influential Neville family, Katherine holds a significant position within the Yorkist and later Tudor circles.
 
-* The Slow Burn Approach:  Winning Talbot's trust shouldn't be easy. This creates a long-term project for the Americans, full of risks as they tiptoe around historical protocols.
-* Unexpected Obstacles:  Other players might also become aware of the land's potential value. Could a local lord or rival of Vernon's try to gain control over George Talbot?
-* Conflict Within the Group: Might the Americans disagree on their approach?  Some may want a quick solution,  while others may advocate patience and building a genuine relationship.
-* Talbot's Awakening:  Don't make George a passive pawn. As he matures, he could become more aware of his land's importance and his own power to negotiate, adding a new layer of complication.
+**Current Situation (July 1485):**
+- Following her husband William Hastings' execution by Richard III in 1483, Katherine finds herself under the protection of Richard III, ensuring her safety and rights amidst the political turmoil. She is also the guardian of her son-in-law, George Talbot, reflecting her influential role in both family and political dynamics.
 
-Things to Consider
+Katherine Neville's situation holds an advantage over Katherine Woodville's, as William Hastings was not attainted, preserving his family's rights and properties. This legal distinction grants Katherine Neville a more stable position and potentially more leverage or resources within the political landscape of 1485 England, compared to Katherine Woodville, whose family faces the consequences of attaintment.
 
-* How Much Do the Americans Know?  Do they have a precise understanding of the limestone deposit? If it's more of a hunch, they may need to find discreet ways to investigate the land.
-* Research is the Friend:  Delving into 15th-century mining and land rights will make their scheming more believable and add rich historical detail. 
+Katherine's character offers a rich narrative potential, intertwining personal loss, political survival, and the overarching tumult of the Wars of the Roses.
 
-Let's Plot!  
 
-* Do the Americans make their initial approach to Talbot or Vernon first? 
-* Are there potential allies or informants  around the young earl whom the Americans could utilize?  
-* What kind of "gift" could pique young George Talbot's  interest without being overly suspicious?
+## **Buxton Limestone**
+
+- **Current Ownership:** George Talbot, residing at Wingfield Manor, a property completed by his father John Talbot after acquiring it from Ralph Cromwell, now likely controls the surrounding lands, including the Buxton limestone deposits.
+  
+- **American Objective:** The limestone is crucial for the Americans, potentially for construction, technological advancements, or trade within 1485. Securing access aligns with their broader goals of establishing a sustainable presence and influence.
+
+- **Navigational Challenges:** The Americans must delicately approach George Talbot, leveraging his and his family's interests. They need to offer value that resonates within the 15th-century context, possibly using their knowledge or resources to broker an alliance or gain favor.
+
+- **Strategic Importance of Limestone:** Recognizing limestone as a crucial ingredient for cement, the Americans see its acquisition as vital for construction purposes, essential for establishing durable infrastructure or fortifications in their new 1485 setting.
+
+- **Engagement with George Talbot:** To access the limestone, the Americans must engage with George Talbot, leveraging his interest in the potential benefits that advanced construction techniques could offer, enhancing his estate or influence.
+
+- **Navigating 15th-century Dynamics:** The task involves understanding and integrating into the local economy and societal structures, presenting the Americans' knowledge and resources as beneficial without revealing their true origins or capabilities.
+
+1. **The Americans' Challenge:**
+   - Understanding the 15th-century land ownership complexities, the Americans need a strategic approach to access Buxton's limestone, requiring them to gain George Talbot's favor or collaborate with influential figures like Henry Vernon.
+
+2. **Navigating Historical Land Dynamics:**
+   - They must navigate the era's property laws and societal norms, potentially using historical knowledge or offering innovative solutions to present-day problems Talbot or Vernon might face.
+
+3. **Henry Vernon's Role:**
+   - While not Talbot's guardian, as his uncle, Vernon could significantly influence Talbot's decisions. The Americans could engage with Vernon, leveraging his ambitions or concerns to facilitate access to the limestone.
+
+4. **Strategic Alliances and Offerings:**
+   - The goal extends beyond limestone acquisition; offering knowledge, technology, or alliances that promise security and prosperity could be key to winning Talbot's and possibly Vernon's trust and cooperation.
+
+The Americans are aware of Buxton's significant lime industry, which becomes pivotal post the 16th century. Given the geological richness and the historical use of limestone for building and lime production, they recognize the potential of these deposits. The geological stability and quality of Buxton limestone make it an ideal resource for their needs. Their challenge lies in navigating the 15th-century landscape to harness this resource, requiring strategic engagement with local landholders like George Talbot and understanding the historical context of limestone usage and quarrying in the region.
 
 ---
 
@@ -282,6 +293,8 @@ Additional Considerations
 * Research for Inspiration: Delving into accounts of Richard III's reign will offer further insights into Lincoln's potential actions and mindset. 
 
 --
+
+## John de Vere
 
 Here's a look at John de Vere, 13th Earl of Oxford, before the summer of 1485, with an eye towards how you can leverage his history in the story:
 
@@ -339,4 +352,3 @@ How to Use This in the Story
 Remember, even if you don't include scenes in France, Oxford's established presence at Henry Tudor's side when they land in England highlights his pivotal importance to the Tudor cause. 
 
 ---
-
