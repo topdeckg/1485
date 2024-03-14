@@ -1,0 +1,42 @@
+digraph g {
+    rankdir = tb;
+    node [shape = box;];
+    edge [penwidth = 0.5; arrowsize = 0.2; fontsize = 8; fontname = "Helvetica,Arial,sans-serif";];
+    
+    
+    
+    "George Talbot" -> "Anne Hastings" [label = "married"; color = seagreen;];
+    "Piers Legh V" -> "Anne Savage" [label = "married"; color = seagreen;];
+    "Thomas Stanley" -> "William Stanley" [label = "brother"; color = teal;];
+    "Thomas Stanley" -> "Catherine Stanley" [label = "brother"; color = teal;];
+    "Thomas Stanley" -> "Lady Margaret Beaufort" [label = "married (2nd)"; color = seagreen;];
+    "Henry Stafford" -> "Katherine Woodville" [label = "married"; color = seagreen;];
+    "Katherine Woodville" -> "Elizabeth Woodville" [label = "sister"; color = tomato;];
+    "Catherine Stafford" -> "Henry Stafford" [label = "sister"; color = tomato;];
+    "John Talbot" -> "Catherine Stafford" [label = "married"; color = seagreen;];
+    "John Talbot" -> "Anne Talbot" [label = "brother"; color = teal;];
+    "Henry Vernon (1441-1515)" -> "Anne Talbot" [label = "married"; color = seagreen;];
+    "John Savage (d. 1495)" -> "Catherine Stanley" [label = "married"; color = seagreen;];
+    "John Savage (d. 1495)" -> "Anne Savage" [label = "father"; color = red;];
+    "Thomas Stanley, 1st Baron Stanley" -> "Thomas Stanley" [label = "father"; color = red;];
+    "Thomas Stanley, 1st Baron Stanley" -> "William Stanley" [label = "father"; color = red;];
+    "Thomas Stanley, 1st Baron Stanley" -> "Catherine Stanley" [label = "father"; color = red;];
+    "Lady Margaret Beaufort" -> "Henry Tudor" [label = "mother";];
+    "Humphrey Stafford" -> "Henry Stafford" [label = "father"; color = red;];
+    "Humphrey Stafford" -> "Catherine Stafford" [label = "father"; color = red;];
+    "John Talbot" -> "George Talbot" [label = "father"; color = red;];
+    "William Hastings" -> "Anne Hastings" [label = "father"; color = red;];
+    "Thomas Stanley" -> "George Stanley" [label = "father"; color = red;];
+    "George Stanley" -> "Joan le Strange" [label = "married"; color = seagreen;];
+    "John le Strange" -> "Joan le Strange" [label = "father"; color = red;];
+    "John le Strange" -> "Jacquetta Woodville" [label = "married"; color = seagreen;];
+    "Katherine Woodville" -> "Jacquetta Woodville" [label = "sister"; color = tomato;];
+    "John Savage (d. 1495)" -> "Sir John Savage (1444–1492)" [label = "father"; color = red;];
+    "Jacquetta of Luxembourg" -> "Elizabeth Woodville" [label = "mother"; color = red;];
+    "Richard Woodville, 1st Earl Rivers" -> "Jacquetta of Luxembourg" [label = "married"; color = seagreen;];
+    "Jacquetta of Luxembourg" -> "Anthony Woodville, 2nd Earl Rivers" [label = "mother"; color = red;];
+    "Jacquetta of Luxembourg" -> "Katherine Woodville" [label = "mother"; color = red;];
+    "Jacquetta of Luxembourg" -> "Jacquetta Woodville" [label = "mother"; color = red;];
+    "Thomas Stanley" -> "Eleanor Neville, Countess of Northumberland" [label = "married (1st)"; color = seagreen;];
+    "Eleanor Neville, Countess of Northumberland" -> "George Stanley" [label = "mother"; color = red;];
+}
