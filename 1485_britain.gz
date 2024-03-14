@@ -2,10 +2,12 @@ digraph g {
     rankdir = tb;
     node [shape = box;];
     edge [penwidth = 0.5; arrowsize = 0.2; fontsize = 8; fontname = "Helvetica,Arial,sans-serif";];
-    
-    
-    
-    "George Talbot" -> "Anne Hastings" [label = "married"; color = seagreen;];
+        
+    "John Talbot, 2nd Earl of Shrewsbury" -> "John Talbot, 3rd Earl of Shrewsbury" [label = "father"; color = red;];
+    "John Talbot, 2nd Earl of Shrewsbury" -> "Anne Talbot" [label = "father"; color = red;];
+    "Anne Neville" -> "Henry Stafford" [label = "mother"; color = red;];
+    "Anne Neville" -> "Catherine Stafford" [label = "mother"; color = red;];
+    "George Talbot, 4th Earl of Shrewsbury" -> "Anne Hastings" [label = "married"; color = seagreen;];
     "Piers Legh V" -> "Anne Savage" [label = "married"; color = seagreen;];
     "Thomas Stanley" -> "William Stanley" [label = "brother"; color = teal;];
     "Thomas Stanley" -> "Catherine Stanley" [label = "brother"; color = teal;];
@@ -13,8 +15,8 @@ digraph g {
     "Henry Stafford" -> "Katherine Woodville" [label = "married"; color = seagreen;];
     "Katherine Woodville" -> "Elizabeth Woodville" [label = "sister"; color = tomato;];
     "Catherine Stafford" -> "Henry Stafford" [label = "sister"; color = tomato;];
-    "John Talbot" -> "Catherine Stafford" [label = "married"; color = seagreen;];
-    "John Talbot" -> "Anne Talbot" [label = "brother"; color = teal;];
+    "John Talbot, 3rd Earl of Shrewsbury" -> "Catherine Stafford" [label = "married"; color = seagreen;];
+    "John Talbot, 3rd Earl of Shrewsbury" -> "Anne Talbot" [label = "brother"; color = teal;];
     "Henry Vernon (1441-1515)" -> "Anne Talbot" [label = "married"; color = seagreen;];
     "John Savage (d. 1495)" -> "Catherine Stanley" [label = "married"; color = seagreen;];
     "John Savage (d. 1495)" -> "Anne Savage" [label = "father"; color = red;];
@@ -24,8 +26,13 @@ digraph g {
     "Lady Margaret Beaufort" -> "Henry Tudor" [label = "mother";];
     "Humphrey Stafford" -> "Henry Stafford" [label = "father"; color = red;];
     "Humphrey Stafford" -> "Catherine Stafford" [label = "father"; color = red;];
-    "John Talbot" -> "George Talbot" [label = "father"; color = red;];
+    "John Talbot, 3rd Earl of Shrewsbury" -> "George Talbot, 4th Earl of Shrewsbury" [label = "father"; color = red;];
     "William Hastings" -> "Anne Hastings" [label = "father"; color = red;];
+    "William Hastings" -> "Katherine Neville" [label = "married"; color = seagreen;];
+    "Ralph Neville, 1st Earl of Westmorland" -> "Katherine Neville" [label = "father"; color = red;];
+    "Ralph Neville, 1st Earl of Westmorland" -> "Anne Neville" [label = "father"; color = red;];
+    "Humphrey Stafford" -> "Anne Neville" [label = "married"; color = seagreen;];
+    "Katherine Neville" -> "Anne Hastings" [label = "mother"; color = red;];
     "Thomas Stanley" -> "George Stanley" [label = "father"; color = red;];
     "George Stanley" -> "Joan le Strange" [label = "married"; color = seagreen;];
     "John le Strange" -> "Joan le Strange" [label = "father"; color = red;];
